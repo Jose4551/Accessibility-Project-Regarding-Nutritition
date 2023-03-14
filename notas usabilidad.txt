@@ -1,0 +1,13 @@
+Equipo 7: Software de nutrución, Pensado en el usuario (Motivación - Responsivo [insignias, recompensas para motivar]).
+		Pacientes (caracteristicas[diabeticos, insufuciencia renal, nutriciion deportiva,])		
+		Motivacional
+		Metas
+	Usuario avanzado (diseñador, base de datos, programadores, tester user)
+		Administrador
+	Historias
+	Spings
+		
+Probar prototipos en usuarios medicos y con abogados para probar la interfaz
+
+•1er prototipo (guiado por colores) 
+•enfocarse en que los usuarios puedan acceder para que el medico tenga la información del paciente
